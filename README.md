@@ -13,5 +13,10 @@ of a much larger sim such as X-Plane 11 or Microsoft Flight Simulator.
 ***737 Cockpit*** will offer fully modeled 737 panels, switches, and systems that function properly. While we're starting with just the panels - the end goal is a
 fully modeled, enclosed cockpit. But the bottom-line is if you see something that looks like it should do something - it does something.
 
+## Target Platforms
+Windows
+MacOS
+WebGL
+
 ## Contributing / Support
 TBD - More details to follow
